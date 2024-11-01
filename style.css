@@ -1,0 +1,24 @@
+div#subversion_logWrapper ul li span
+{
+	display: block;
+}
+
+div#subversion_logWrapper ul li span.version,
+div#subversion_logWrapper ul li span.date
+{
+	display: inline;
+	margin: 0 10px 0 0;
+}
+
+div#subversion_logWrapper ul li span.date
+{
+
+}
+div#subversion_logWrapper ul li span.comment
+{
+
+}
+div#subversion_logWrapper ul li span.author
+{
+
+}
